@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "neo4j-community/version"
 
 Gem::Specification.new do |s|
-  s.name        = "mp-neo4j-community"
+  s.name        = "neo4j-community"
   s.version     = Neo4j::Community::VERSION
   s.authors     = ["Dmytrii Nagirniak", "Andreas Ronge"]
   s.email       = ["dnagir@gmail.com", "andreas.ronge@gmail.com"]
